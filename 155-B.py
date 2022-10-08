@@ -1,7 +1,6 @@
 
 import sys
 import io
-from traceback import print_tb
 
 _INPUT = """\
 3
