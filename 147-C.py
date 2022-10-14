@@ -54,3 +54,6 @@ for i in range(2**n):
         maxi = max(maxi,num)
     print("----------------------------")
 print(maxi)
+
+#%%
+print(int("0x050001ff00",16))
